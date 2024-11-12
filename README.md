@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=dark"
@@ -22,7 +9,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayden1412&layout=compat" />
 </picture>
 
 <picture>
