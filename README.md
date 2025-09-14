@@ -1,4 +1,4 @@
-https://count.getloli.com/@Kayden1412?name=Kayden1412&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+<img src="https://count.getloli.com/@Kayden1412?name=Kayden1412&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 <picture>
   <source
